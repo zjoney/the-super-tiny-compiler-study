@@ -1,6 +1,6 @@
 # the-super-tiny-compiler-study
 简单版本的compilier
-[![The Super Tiny Compiler](https://cloud.githubusercontent.com/assets/952783/21579290/5755288a-cf75-11e6-90e0-029529a44a38.png)](the-super-tiny-compiler.js)
+[![The Super Tiny Compiler]![avatar](https://github.com/zjoney/the-super-tiny-compiler-study/blob/main/5755288a-cf75-11e6-90e0-029529a44a38.png)](the-super-tiny-compiler.js)
 
 ***Welcome to The Super Tiny Compiler!***
 
